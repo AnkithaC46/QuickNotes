@@ -1,0 +1,10 @@
+com\ankithac\NotesApp\Entity\NotesEntity.class
+com\ankithac\NotesApp\Entity\NotesEntity$NotesEntityBuilder.class
+com\ankithac\NotesApp\Service\NotesService.class
+com\ankithac\NotesApp\Config\WebConfig.class
+com\ankithac\NotesApp\Controller\NotesController.class
+com\ankithac\NotesApp\NotesAppApplication.class
+com\ankithac\NotesApp\Config\WebConfig$1.class
+com\ankithac\NotesApp\Repository\NotesRepository.class
+com\ankithac\NotesApp\Dto\NotesDto$NotesDtoBuilder.class
+com\ankithac\NotesApp\Dto\NotesDto.class
